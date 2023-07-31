@@ -1,2 +1,2 @@
-# go-curly
-Curl implementation in go.
+# go-cli
+Cli implementation in go.
